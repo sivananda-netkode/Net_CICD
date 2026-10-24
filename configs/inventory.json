@@ -1,0 +1,14 @@
+[
+  {
+    "id": 1,
+    "name": "R1",
+    "device_type": "Cisco 7206VXR",
+    "site": "GNS3-Lab"
+  },
+  {
+    "id": 2,
+    "name": "switch1",
+    "device_type": "Cisco IOSv L2",
+    "site": "GNS3-Lab"
+  }
+]
